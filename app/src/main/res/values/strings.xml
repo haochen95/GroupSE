@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">GroupSE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="nav_home">Beacon</string>
+    <string name="nav_notifi">Notification</string>
+    <string name="nav_setting">Setting</string>
+    <string name="nav_account">Account</string>
+    <string name="item">Item</string>
+    <string name="visual">Visual</string>
+    <string name="main">Main</string>
+    <string name="visualize">Nearby</string>
+    <string name="setting">setting</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="remember_me">Remember me</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forget_your_password">Forget your Password?</string>
+    <string name="username">Username</string>
+    <string name="name1">Name</string>
+    <string name="password">Password</string>
+    <string name="email_notin_data">Email is not registered yet</string>
+    <string name="validate_email">Please Enter Real Email</string>
+    <string name="temp">xxxxx</string>
+    <string name="major_label">Maj: </string>
+    <string name="minor_label">Min: </string>
+    <string name="tx_label">Tx: </string>
+    <string name="rssi_label">RSSI: </string>
+    <string name="battery_label">Battery: </string>
+    <string name="proximity_label">Proximity: </string>
+    <string name="accuracy_label">meters</string>
+    <string name="millivolt">mV</string>
+    <string name="size">Size</string>
+
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="already_have_account_log_in">Already have account? Log in</string>
+
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <string name="pls_enter">
+        Please Enter your registered email. \n
+        We'll send your password to your email
+    </string>
+
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+
+
+    <string name="home">home</string>
+
+    <string name="list_of_detected_beacon">List of Detected Beacon</string>
+    <string name="number_of_beacon">Number of Beacon :</string>
+    <string name="_0">0</string>
+    <string name="context">dfd</string>
+    <string name="time">dfe</string>
+    <string name="enter_your_register_email">Enter your register Email</string>
+    <string name="send_password">Send Password</string>
+    <string name="management_system">Management System</string>
+    <string name="all_accounts">All Accounts</string>
+    <string name="testing">TextView</string>
+
+    <string name="hint_password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_forget">ForgetActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_user_manage">userManageActivity</string>
+
+</resources>

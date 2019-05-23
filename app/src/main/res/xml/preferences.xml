@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.PreferenceCategory
+        android:key="user_category"
+        android:title="Sensor Setting"
+        >
+
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="acc_setting"
+            android:summary="Movement information"
+            android:title="Acceleration" />
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="acc1_setting"
+            android:summary="Acceleration without gravity"
+            android:title="Linear Acceleration" />
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="gyro_setting"
+            android:summary="Angle information"
+            android:title="Gyroscope" />
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="magne_setting"
+            android:summary="Magnetic information"
+            android:title="Magnetic" />
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="orien_setting"
+            android:summary="Orientation information"
+            android:title="Orientation" />
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="false"
+            android:key="rota_setting"
+            android:summary="Rotation information"
+            android:title="Rotation" />
+
+    </android.support.v7.preference.PreferenceCategory>
+
+    <android.support.v7.preference.PreferenceCategory
+        android:key="visua_category"
+        android:title="Visualization"
+        >
+
+        <android.support.v7.preference.SwitchPreferenceCompat
+            android:defaultValue="falsee"
+            android:key="visual_data"
+            android:summary="Real-time visualize sensor data"
+            android:title="Visualizing Sensor Information" />
+
+    </android.support.v7.preference.PreferenceCategory>
+
+</android.support.v7.preference.PreferenceScreen>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.sensingkit:SensingKitLib-release:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SensingKitLib-release.aar/70c51ae9c0c2d7e77ba2e61db4a78ea4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SensingKitLib-release.aar/70c51ae9c0c2d7e77ba2e61db4a78ea4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
