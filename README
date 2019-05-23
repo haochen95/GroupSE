@@ -1,0 +1,14 @@
+# Main function  
+
+* push start button: collect smartphone sensor data + Beacon RSSI data  
+* file screen: send data to this email "inuidcm@gmail.com"  
+
+# Purpose of this application  
+
+* for group activity recognition data collections  
+
+# Attention  
+
+If you have used any of code. Please cite my paper  
+
+`Chen H, Cha SH, Kim TW. A framework for group activity detection and recognition using smartphone sensors and beacons. Building and Environment. 2019 May 10.`
